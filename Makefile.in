@@ -19,7 +19,7 @@ include Makefile.include
 # user-overridable flags, but it's also all the implicit rule looks at.
 # missing ?
 
-SUBDIRS = src doc contrib
+SUBDIRS = src doc #contrib
 
 
 ### simple, but effective rules
